@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+create .env file with:
+
+```bash
+NEXT_PUBLIC_API_KEY=your_key
+```
+
 run the development server:
 
 ```bash
